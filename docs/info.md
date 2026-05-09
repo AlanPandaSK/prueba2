@@ -6,7 +6,6 @@ This project implements a **dual-mode DVD-style bouncing logo** on a VGA monitor
  
 The system is composed of five main blocks: a VGA sync generator, dual bitmap ROMs (square and rectangular), mode selection logic, bouncing logic with position registers, a color palette, and an RGB output multiplexer. The diagram below shows the overall architecture.
  
-![](diagram.png)
  
 _**Figure 1.** Block diagram of the dual-mode VGA screensaver system._
  
